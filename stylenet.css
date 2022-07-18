@@ -1,0 +1,276 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #222;
+}
+.container{
+    position: relative;
+    width: 1345px;
+    height: 728px;
+    border:2px solid #000000;
+    -moz-box-shadow: inset 40px 40px 50px #000000;
+    -webkit-box-shadow: inset 50px 50px 50px #000000;
+    box-shadow: inset 50px 50px 50px #000000;
+    border-bottom: solid 8px;
+    border-color: #222;
+}
+
+.bg{
+    width: 100%;
+    position: absolute;
+    height: 732px;
+    filter:brightness(40%)
+}
+.header{
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.logo{
+    width: 25%;
+    margin-left: 45px;
+    margin-top: -7px !important;
+    position: relative;
+    
+}
+.body1{
+    
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    
+}
+#btn2{
+    cursor: pointer;
+    border: 1px solid #e50914;
+    border-radius: 3px;
+    background-color: #e50914;
+    height: 35px;
+    width: 95px;
+    color: white;
+    font-size: 1em;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    float: right;
+    margin-top: -75px;
+    margin-right: 56px;
+}
+.email-table{
+    margin-left: 348px;
+    
+}
+.email-tab{
+    width: 450px;
+    height: 50px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+.btn3{
+    cursor: pointer;
+    border: 1px solid #e50914;
+    border-radius: 1px;
+    background-color: #e50914;
+    height: 55px;
+    width: 180px;
+    color: white;
+    font-size: 25px;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    float: right;
+    margin-right: 56px;
+}
+.formgap{
+    margin-right: -4px;
+}
+.text-left{
+    width: 50%;
+    background-color: black;
+    height: 473.92px;
+    float: left;
+    border-bottom: solid 8px;
+    border-color: #222;
+}
+.text-right{
+    width: 50%;
+    background-color: black;
+    height: 473.92px;
+    float: left;
+    
+    border-bottom: solid 8px;
+    border-color: #222;
+}
+.tr{
+    padding-left: 28px;
+    
+}
+#tit-1{
+    color: white;
+    text-align: center;
+    padding-top: 137px;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    font-weight: bold;
+    margin-left: -85px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+#tit-2{
+    color: #fff;
+    text-align: center;
+    font-size: 1.625rem;
+    font-weight: 400;
+    margin-left: -79px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.tit-3{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-left: 30px;
+    color: #fff;
+}
+h1{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #fff;
+    padding-top: 137px;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    font-weight: bold;
+    padding-left: 125px;
+}
+h2{
+    color: #fff;
+    padding-left: 50px;
+    font-size: 1.625rem;
+    font-weight: 400;
+    margin: -0.25em 0 0.25em;
+    padding-left: 125px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+h3{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.bod-2{
+    height: 459.92px;
+    border-bottom: solid 8px;
+    border-color: #222;
+}
+.logo-right{
+    width: 50%;
+    height: 473.92px;
+    background-color: black;
+    border-bottom: 8px solid #222;
+    float: left;
+}
+.logos{
+    width: 530px;
+    height: 398px;
+    padding-left: 85px;
+    padding-top: 31px;
+}
+.qstns{
+    width: 100%;
+    height: 892px;
+    background-color: black;
+    float: left;
+    border-bottom: solid 8px;
+    border-color: #222;
+}
+#qstnhead{
+    padding-top: 28px;
+    padding-left: 334px;
+}
+.qstn-title{
+    margin-left: -100px;
+    padding-top: 13px;
+}
+.qstn-button{
+    margin-left: 265px;
+    width: 815px;
+    height: 75px;
+    background-color: #222;
+    color: #fff;
+    text-align: left;
+}
+hr{
+    margin-top: -2px;
+    background-color: black;
+    border: none;
+}
+.footer{
+    width: 100%;
+    height: 394px;
+    background-color: black;
+    float: left;
+    color: #fff;
+    
+}
+a{
+    text-decoration: none;
+    color: #737373;
+}
+#tbody{
+    border-spacing: 15px;
+    padding-left: 208px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.td{
+    padding-top: 3px;
+    padding-right: 90px;
+    font-size: 13px;
+    color: #737373;
+}
+#qnftr{
+    padding-left: 220px;
+    color: #737373;
+    font-size: 1em;
+    padding-top: 70px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.language1{
+    width: 95px;
+    height: 35px;
+    float: right;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    text-align: center;
+    font-size: 0.875rem;
+    border-radius: 3px;
+    border: 1px solid #fff;
+    cursor: pointer;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    float: right;
+    margin-top: -75px;
+    margin-right: 175px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.language2{
+    background-color: #000;
+    background-image: none;
+    border: 1px solid #333;
+    color: #999;
+    font-size: 16px;
+    width: 132px;
+    height: 53px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 222px;
+    margin-top: 22px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+#finalnote{
+    color: #737373;
+    font-size: 13px;
+    margin-top: 24px;
+    margin-left: 222px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
